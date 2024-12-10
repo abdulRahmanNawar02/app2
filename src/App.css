@@ -1,0 +1,16 @@
+.img-bg{
+   background-image: url(./assignment-images/imges/landing-page/Frame.png);
+   background-repeat: no-repeat;
+   background-position: top right;
+}
+.form-control{
+   border-radius: 0;
+}
+
+.max-w-20{
+   max-width: 20%;
+}
+
+.max-w-75{
+   max-width: 75%;
+}
