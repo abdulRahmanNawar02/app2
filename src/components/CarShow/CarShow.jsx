@@ -18,21 +18,21 @@ export default function CarShow() {
          <button className="btn bg-primary-subtle text-primary my-3 fw-normal">HOW IT WORK</button>
          <h1>Most popular cars rental deals</h1>
          <div className="d-flex justify-content-center flex-wrap ">
-            <div className="max-w-20 mx-4">
+            <div className="max-w-20 justify-items-center mx-4">
                <img src={locationImg} alt="" />
                <h4 className='py-2'>Choose location</h4>
                <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                </p>
             </div>
-            <div className="max-w-20 mx-4">
+            <div className="max-w-20 justify-items-center mx-4">
                <img src={calenderImg} alt="" />
                <h4 className='py-2'>Pick-up-today</h4>
                <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                </p>
             </div>
-            <div className="max-w-20 mx-4">
+            <div className="max-w-20 justify-items-center mx-4">
                <img src={carImg} alt="" />
                <h4 className='py-2'>Book your Car</h4>
                <p>
@@ -40,7 +40,7 @@ export default function CarShow() {
                </p>
             </div>
          </div>
-         <div className="brands my-5 d-flex justify-content-around max-w-75 m-auto ">
+         <div className="brands my-5 d-flex justify-content-around flex-wrap max-w-75 m-auto ">
             <img src={audi} alt="" />
             <img src={nissan} alt="" />
             <img src={volvo} alt="" />

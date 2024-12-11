@@ -3,6 +3,9 @@
    background-repeat: no-repeat;
    background-position: top right;
 }
+.justify-items-center{
+   justify-items: center;
+}
 .form-control{
    border-radius: 0;
 }
