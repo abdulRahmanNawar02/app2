@@ -6,7 +6,7 @@ import Navbar from "../Navbar/Navbar";
 export default function Master() {
   return (
      <>
-      <div className="img-bg container-fluid">
+      <div className="img-bg">
          <Navbar />
          <Header />   
          <CarShow /> 

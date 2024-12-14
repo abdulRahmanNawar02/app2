@@ -23,7 +23,7 @@ export default function Navbar() {
                                         <a className="nav-link active" aria-current="page" href="#">why choose us</a>
                                    </li>
                               </ul>
-                              <ul className="navbar-nav ps-5 me-auto mb-2 mb-lg-0">
+                              <ul className="navbar-nav ps-5 me-auto mt-0 mb-2 mb-lg-0">
                                    <li className="nav-item mx-2">
                                         <button className="btn btn-transparent">Sign in</button>
                                    </li>       

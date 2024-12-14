@@ -3,6 +3,9 @@
    background-repeat: no-repeat;
    background-position: top right;
 }
+.bg-primary-dark{
+   background-color: #051C34;
+}
 .justify-items-center{
    justify-items: center;
 }
